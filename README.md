@@ -12,7 +12,7 @@ InTents is designed around a simple idea: **phones can multiply productivity whe
 
 If you have a question, encounter a bug, or need help using InTents, contact:
 
-**Email:** nayan_sapers@college.harvard.edu
+**Email:** paperssapers@gmail.com
 
 When reporting a problem, it is helpful to include:
 
@@ -131,7 +131,7 @@ If a future version introduces cloud synchronization, analytics, artificial inte
 
 For privacy or support questions, contact:
 
-**nayan_sapers@college.harvard.edu**
+**paperssapers@gmail.com**
 
 ---
 
