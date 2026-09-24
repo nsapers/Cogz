@@ -3,11 +3,11 @@
 **A cute little app reminding you to explore the cute little world.**
 
 Your phone is useful. Sometimes you really do want to be there.
-InTents just asks you to decide why you're going in and how long you need — then reminds you there's a cute little world outside it.
+InTentz just asks you to decide why you're going in and how long you need — then reminds you there's a cute little world outside it.
 
 ## How it works
 
-1. **Why?** Open an app you've chosen, and InTents asks: *What's your intention?*
+1. **Why?** Open an app you've chosen, and InTentz asks: *What's your intention?*
    Do something specific · Connect with someone · Browse — or **Not now**.
 2. **How long?** Pick 1, 5 or 10 minutes of actual use. The app opens and InTents gets out of the way.
 3. **How'd that go?** When your time is used up, a quick check-in:
