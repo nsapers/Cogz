@@ -1,4 +1,4 @@
-# InTents ⛺
+# InTentz ⛺
 
 **A cute little app reminding you to explore the cute little world.**
 
