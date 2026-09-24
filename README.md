@@ -9,7 +9,7 @@ InTentz just asks you to decide why you're going in and how long you need — th
 
 1. **Why?** Open an app you've chosen, and InTentz asks: *What's your intention?*
    Do something specific · Connect with someone · Browse — or **Not now**.
-2. **How long?** Pick 1, 5 or 10 minutes of actual use. The app opens and InTents gets out of the way.
+2. **How long?** Pick 1, 5 or 10 minutes of actual use. The app opens and InTentz gets out of the way.
 3. **How'd that go?** When your time is used up, a quick check-in:
    Yes, as intended · Mostly · No · Skip. Then back to the cute little world.
 
@@ -19,12 +19,12 @@ Browsing is a perfectly good answer, and skipping a check-in never counts agains
 ## Private by design
 
 Everything stays on your iPhone. No account, no ads, no analytics, no AI, no notifications.
-InTents uses Apple's Screen Time frameworks only to help you manage your own phone use.
+InTentz uses Apple's Screen Time frameworks only to help you manage your own phone use.
 
 ## Links
 
-- [Support](https://nsapers.github.io/InTents/support/)
-- [Privacy policy](https://nsapers.github.io/InTents/privacy/)
+- [Support](https://nsapers.github.io/InTentz/support/)
+- [Privacy policy](https://nsapers.github.io/InTentz/privacy/)
 - Contact: [paperssapers@gmail.com](mailto:paperssapers@gmail.com)
 
 Requires iOS 18 or later. The full on-shield experience needs iOS 26.4 or later.
